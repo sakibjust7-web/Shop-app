@@ -1,0 +1,6 @@
+{
+  "name": "Hardware Manager",
+  "description": "Hardware store management app with bilingual (Bangla/English) support, local Room storage, and ৳ Taka currency tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
